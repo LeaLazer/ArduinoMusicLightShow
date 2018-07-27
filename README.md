@@ -1,1 +1,4 @@
 # ArduinoMusicLightShow
+
+Ideen:
+- Mikro anschließen
