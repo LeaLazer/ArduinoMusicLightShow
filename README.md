@@ -1,7 +1,13 @@
 # ArduinoMusicLightShow
 
-Ideen:
+TO-DO:
 
+- Funke anschließen | Funke zu Dimmer testen
+- Mikro anschließen | Mikro zu LED testen
+- Mikro/Mukke über Funke zu Dimmer testen
+
+
+IDEEN:
 
 - Mikro anschließen
 
@@ -20,3 +26,12 @@ Ideen:
             Anschluss an Arduino:
             
             -  
+            
+            
+            
+            
+- Finales Projekt/Positionierung Mics 
+
+     - Einzelne Mikros an Teilen der Instrumente | Kick drum, Verstärker, Gesang etc. --> darüber einzelne LEDs/Dimmer    triggern
+     
+     - Über 2-3 Raummikros Sound der Band analysieren und an LEDs/Dimmer weiterleiten 
